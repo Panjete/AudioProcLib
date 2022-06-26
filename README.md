@@ -1,5 +1,5 @@
 # Audio Processing Library
-**Objective Accomplished**- Created an Audio Processing Library (API), called via cpp, that classifies sounds across 12 keywords. The functions used for the implementation of DNN inferencing were optimised and improved across various stages, and the results were neatly compiled. The library is easy to execute with help of the "makefile" framework , and thorough error handling and graceful exiting was incorporated. 
+**Objective Accomplished**- Implemented a deep neural network (DNN) inference for classifying across 12 audio keywords. Given the feature vector of a 1 second audio clip, the API returns the top 3 keywords with highest softmax probabilities. The functions used for the implementation of DNN inferencing were optimised and improved across various stages, and the results were neatly compiled. The library is easy to execute with help of the "makefile" framework , and thorough error handling and graceful exiting was incorporated. 
 
 ## Stage 1
 
