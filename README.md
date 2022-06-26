@@ -57,7 +57,7 @@ The fastest implementation of the previous assignment was "pthread" matric multi
 
 
 ## A Group Project by- 
-- GURARMAAN SINGH PANJETA : 2020CS50426
-- KARTIK SHARMA : 2020CS10351 
+- GURARMAAN SINGH PANJETA
+- KARTIK SHARMA
 
 
